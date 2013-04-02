@@ -6,6 +6,6 @@ public class App
     {
         String a,b;
         a = "aaaaa";
-        System.out.println( "Hello World!" );
+        System.out.println(a);
     }
 }

@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+>>>>>>> 04b6f9310cbc5a1d7ff5660e7cdbedff6e1fac37
 logs
  
 # Eclipse Setting
@@ -19,6 +29,7 @@ nbproject
 build
 dist
 private
+<<<<<<< HEAD
  
 #idea project
 .idea
@@ -29,3 +40,5 @@ private
 #database
 #pom.xml
 #/batubara-online-core/src/main/resources/jdbc.properties
+=======
+>>>>>>> 04b6f9310cbc5a1d7ff5660e7cdbedff6e1fac37
