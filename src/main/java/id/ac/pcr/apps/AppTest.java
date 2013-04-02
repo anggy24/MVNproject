@@ -2,12 +2,14 @@ package id.ac.pcr.apps;
 
 public class AppTest {
 
-    public static void main(String[] args) {
+    public int c;
 
-
+    public int getC() {
         int a = 5;
         int b = 7;
-        int c = a + b;
-        System.out.println("" + c);
+        this.c = a + b;
+
+        return this.c;
+
     }
 }
